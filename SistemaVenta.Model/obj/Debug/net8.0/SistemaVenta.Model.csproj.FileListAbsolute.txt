@@ -1,0 +1,14 @@
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.deps.json
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.runtimeconfig.json
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.dll
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.pdb
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.csproj.AssemblyReference.cache
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.AssemblyInfoInputs.cache
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.AssemblyInfo.cs
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.dll
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.Model\obj\Debug\net8.0\refint\SistemaVenta.Model.dll
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.pdb
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.genruntimeconfig.cache
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.Model\obj\Debug\net8.0\ref\SistemaVenta.Model.dll

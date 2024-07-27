@@ -1,0 +1,11 @@
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.DTO\bin\Debug\net8.0\SistemaVenta.DTO.deps.json
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.DTO\bin\Debug\net8.0\SistemaVenta.DTO.dll
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.DTO\bin\Debug\net8.0\SistemaVenta.DTO.pdb
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.AssemblyInfoInputs.cache
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.AssemblyInfo.cs
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.csproj.CoreCompileInputs.cache
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.dll
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.DTO\obj\Debug\net8.0\refint\SistemaVenta.DTO.dll
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.pdb
+C:\Users\MAGNOLIA\Desktop\PRUEBA\SistemaVentaAPI\SistemaVenta.DTO\obj\Debug\net8.0\ref\SistemaVenta.DTO.dll
